@@ -24,7 +24,10 @@
         <activity
             android:name=".DisplayAirAcitivity"
             android:parentActivityName=".MainActivity" />
-        <activity android:name=".FindNearest"></activity>
+        <activity android:name=".FindNearest" />
+        <activity android:name=".FindRanking" />
+        <activity android:name=".Findstates" />
+        <activity android:name=".Findcities"></activity>
     </application>
 
 </manifest>
